@@ -3,7 +3,7 @@ import SecondaryButton from "../../../../../Components/SecondaryButton";
 import ListElement from "./ListElement";
 function Addresses() {
     return (
-        <div className='cgap-4 border border-#64748B'>
+        <div className='cgap-4 border border-grey rounded-2'>
             <div className='title ps-4 m-4'>Адреса заведений</div>
             <div className='d-inline-flex flex-column gap-2'>
                 <ListElement>Санкт-Петербург, Невский пр-т. 28</ListElement>

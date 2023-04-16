@@ -5,6 +5,7 @@ import IconOnlyButton from '../../../../Components/IconOnlyButton';
 const WrapperInput = styled.div`
     position:relative;
     width: 217px;
+    height: 34px;
 `;
 
 const Input = styled.input`

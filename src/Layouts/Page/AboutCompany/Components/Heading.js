@@ -3,8 +3,8 @@ import SecondaryButton from "../../../../Components/SecondaryButton";
 function Heading() {
     return (
         <div className='d-flex flex-row justify-content-between pt-3 mt-5'>
-            <h1 className='large-title'>Данные о компании</h1>
-            <SecondaryButton>Закрыть запись</SecondaryButton>
+                <h1 className='large-title'>Данные о компании</h1>
+                <SecondaryButton>Закрыть запись</SecondaryButton>
         </div>
     );
 }
